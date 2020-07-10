@@ -56,6 +56,31 @@ html, body {
     padding-top: 2rem;
 }
 
+.package-section { margin-top: 100px 0;}
+
+.flex { 
+    display: flex;
+    background-color: #3AAFA9;
+    width: 270px;
+    padding: 20px 50px 20px 50px;
+    /* margin: 0 20px 20px 20px; */
+}
+
+.flex-text { 
+    font-size: .9em;
+}
+
+.img1 { 
+    height: 30vh;
+    top: 20px;
+    left: -75px;
+}
+
+.img2 {
+    height: 30vh;
+    right: 510px;
+}
+
 .testimonials {
     border-top: 2px solid rgba(222, 242, 241, 0.25);
     width: 95%;
